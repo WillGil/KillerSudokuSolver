@@ -1,0 +1,35 @@
+HELP MENU:
+- What is the system for:
+The system is an assistant to solve Killer Sudoku Puzzles for players of a variety of skill levels.
+
+- How to input a puzzle:
+The system allows input of Killer Sudoku Puzzles through two different methods. 
+ -- Clicking File > Open New Board 
+ -- Clicking File > Open Existing Board
+
+- How to interact with the system:
+On the right, there is a panel that allows for interaction with the system. The components work as follows:
+ -- "Solve Fully"  the puzzle will be fully solved.
+ -- "Solve Once" the puzzle will have a strategy applied to it to complete it.
+ -- "Clear" clear the puzzles to its default state.
+ -- "Detailed Help" this will display the candidates on the puzzle, along with this it will also show the strategies when "Solve Once" is clicked.
+
+- Strategies within the system:
+ -- Naked Singles
+ -- Hidden Singles 
+ -- Rule of Necessity 
+ -- Naked Pairs
+ -- Hidden Pairs
+ -- Naked Triples
+ -- Hidden Triples
+ -- Naked Quads
+ -- Hidden Quads
+ -- Killer Cage Combinations
+ -- Killer Cage Combinations (Harder)
+ -- Box Line Reduction
+ -- Pointing Pairs
+ -- Innies and outies 
+ -- Innies and outies (2 cells) 
+
+Thank you for reading. 
+I hope you enjoy the software.
